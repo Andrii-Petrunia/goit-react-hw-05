@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h3 {
+  margin: 0 0 5px;
+}
+
+.item p {
+  margin: 0;
+}
